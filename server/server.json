@@ -1,0 +1,63 @@
+{
+	"reports": {
+		"report1" : {
+			"data": "This report shows report 1"
+		},
+		"report2" : {
+			"data": "This report shows report 2"
+		},
+		"report3" : {
+			"data": "This report shows report 3"
+		}
+	},
+	"profiles": [
+		{
+		"id": "817498172128",
+		"userName" : "solomonmarvel",
+		"fullName" : "marvelous solomon",
+		"emailAddress": "marveloussolomon@gmail.com",
+		"contact" : {
+			"homeAddress": "Mars",
+			"phoneNumber": "+23481700000",
+			"socialMedia" : {
+				"twitter": "@johndoe1",
+				"facebook" : "johndoe1",
+				"instagram": "johndoe1"
+			}
+		}
+		},
+		{
+		"id": "968498172128",
+		"userName" : "solomonmark",
+		"fullName" : "mark solomon",
+		"emailAddress": "marksolomon@gmail.com",
+		"contact" : {
+			"homeAddress": "Mars",
+			"phoneNumber": "+23481700000",
+			"socialMedia" : {
+				"twitter": "@johndoe1",
+				"facebook" : "johndoe1",
+				"instagram": "johndoe1"
+			}
+		}
+		},
+		{
+		"id": "746498172128",
+		"userName" : "solomonmarrieth",
+		"fullName" : "marrieth solomon",
+		"emailAddress": "marriethsolomon@gmail.com",
+		"contact" : {
+			"homeAddress": "Mars",
+			"phoneNumber": "+23481700000",
+			"socialMedia" : {
+				"twitter": "@johndoe1",
+				"facebook" : "johndoe1",
+				"instagram": "johndoe1"
+			}
+		}
+		}
+	],
+	"account": {
+
+	}
+}

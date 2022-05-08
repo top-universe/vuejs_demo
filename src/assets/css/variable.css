@@ -1,0 +1,14 @@
+:root {
+  --background-color: white;
+  --body-font-family: "Mulish", sans-serif;
+  --body-font-size: 14px;
+  --heading-font-family: "Space Grotesk", sans-serif;
+  --heading-color: rgb(20, 20, 20);
+  --primary: rgb(101, 195, 101);
+  --secondary: rgb(230, 119, 64);
+  --color-light: rgb(236, 236, 236);
+  --color-dark: rgb(22, 22, 22);
+  --white: rgb(236, 236, 236);
+  --black: rgb(22, 22, 22);
+  --border-radius: 8px;
+}

@@ -1,0 +1,8 @@
+@import url('./margin.css');
+
+
+.center {
+    display: grid;
+    place-items: center;   
+}
+
